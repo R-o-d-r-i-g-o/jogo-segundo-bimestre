@@ -25,4 +25,11 @@ Confira o vídeo de gameplay de Nome do Jogo no link abaixo:
 ### Funcionalidade 1: pular na cabeça de um inimigo para derrotá-lo.
 Sempre que o usuário cair sobre um inimigo, ele será derrotado automáticamento por um espécie de hit-kill.
 
+![code-enemy](https://github.com/R-o-d-r-i-g-o/jogo-segundo-bimestre/assets/89111957/a78357c9-c7be-43cb-a7d8-443936653005)
+
 ### Funcionalidade 2: precionar o botão `space` para permitir o boneco pular.
+Sempre que necessário o usuário pular, ele clicará o botão espaço e o usuário em alguns poucos milisegundos (por conta da animação) já estará no ar.
+
+![code](https://github.com/R-o-d-r-i-g-o/jogo-segundo-bimestre/assets/89111957/a51a858e-7375-4151-8a0e-cae91939c2c3)
+
+
